@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "Model_Development",
+			"path": "Diabetes/Model_Development"
+		},
+		{
+			"name": "UI",
+			"path": "Diabetes/UI"
+		}
+	]
+}
